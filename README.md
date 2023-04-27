@@ -13,4 +13,5 @@ Coming soon :
 1. Tetris remake
 2. QR code generator
 3. Desktop organiser
-
+4. Python password manager
+...
