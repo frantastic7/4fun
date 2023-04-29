@@ -6,7 +6,7 @@ List of projects :
 2. QQR - Online QR code reader
 3. SNEK - The classic game of Snake adapted for the browser
 4. WWA - Web Weather App, made by using openweather api
-
+5. Password Generator - web app to generate secure passwords (JS)
 
 Coming soon : 
 
