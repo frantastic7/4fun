@@ -11,8 +11,10 @@ List of projects :
 
 Coming soon : 
 
-1. Tetris remake
-2. QR code generator
-3. Desktop organiser
-4. Python password manager
-...
+1. Wheel spin app
+2. Tetris remake
+3. QR code generator
+4. Desktop organiser
+5. Python password manager
+6. Chess AI
+7. BlueSky bot - most likely will get a separate repo
