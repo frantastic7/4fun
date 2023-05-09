@@ -15,6 +15,5 @@ Coming soon :
 2. Tetris remake
 3. QR code generator
 4. Desktop organiser
-5. Python password manager
-6. Chess AI
-7. BlueSky bot - most likely will get a separate repo
+5. Chess AI
+6. BlueSky bot - most likely will get a separate repo
