@@ -17,3 +17,4 @@ Coming soon :
 4. Desktop organiser
 5. Chess AI
 6. BlueSky bot - most likely will get a separate repo
+7. Task manager
