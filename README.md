@@ -8,7 +8,9 @@ List of projects :
 4. WWA - Web Weather App, made by using openweather api
 5. Password Generator - web app to generate secure passwords (JS)
 6. Translator - web based translator with 90+ languages and built-in text2speech
-7. Desktop orgaiser script
+7. Desktop orgaiser script  
+8. DISCORD - my discord bots repo  
+
 Coming soon : 
 
 1. Wheel spin app
@@ -17,4 +19,3 @@ Coming soon :
 4. Chess AI
 5. BlueSky bot - most likely will get a separate repo
 6. Task manager
-7. Discords bots (might be a separate repo)
