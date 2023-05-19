@@ -9,7 +9,7 @@ List of projects :
 5. Password Generator - web app to generate secure passwords (JS)
 6. Translator - web based translator with 90+ languages and built-in text2speech
 7. Desktop orgaiser script  
-8. DISCORD - my discord bots repo > https:://www.github.com/discbots  
+8. DISCORD - my discord bots repo > www.github.com/frantastic7/discbots  
 
 Coming soon : 
 
