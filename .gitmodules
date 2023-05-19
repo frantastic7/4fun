@@ -1,0 +1,3 @@
+[submodule "DISCORD"]
+	path = DISCORD
+	url = https://github.com/frantastic7/discbots
