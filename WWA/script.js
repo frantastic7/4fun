@@ -3,16 +3,16 @@ const search = document.querySelector('.search-box button');
 const weatherBox = document.querySelector('.weather-box');
 const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
-
+const config = require('./config.json')
 search.addEventListener('click', () => {
 
-    const APIKey = '1aab27786355a1524c921c7c9df61834';
+    const apiKey = config.APIKey;
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
         return;
 
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`)
         .then(response => response.json())
         .then(json => {
 
